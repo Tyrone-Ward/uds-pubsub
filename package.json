@@ -1,13 +1,24 @@
 {
   "name": "uds-pubsub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight Unix Domain Socket pub/sub library for Node.js",
   "main": "./src/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["pubsub", "IPC", "Unix Domain Socket", "nodejs"],
+  "author": "Tyrone Ward",
+  "license": "MIT",
+  "directories": {
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyrone-Ward/uds-pubsub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tyrone-Ward/uds-pubsub/issues"
+  },
+  "homepage": "https://github.com/Tyrone-Ward/uds-pubsub#readme"
 }
