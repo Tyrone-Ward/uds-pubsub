@@ -1,0 +1,13 @@
+{
+  "name": "uds-pubsub",
+  "version": "1.0.0",
+  "description": "Lightweight Unix Domain Socket pub/sub library for Node.js",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
